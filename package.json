@@ -33,7 +33,7 @@
   },
   "scripts": {
    "start_X": "HOST=localhost react-scripts start", 
-   "start": "react-scripts start -p 3003",
+   "start": "react-scripts start -p 3003", 
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
